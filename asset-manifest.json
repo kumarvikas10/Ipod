@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ipod/static/css/main.253700b8.css",
-    "main.js": "/ipod/static/js/main.f86b4306.js",
-    "static/media/Senorita.mp3": "/ipod/static/media/Senorita.4765c0c89abed635f1e2.mp3",
-    "static/media/cover4.png": "/ipod/static/media/cover4.da94d241c95fde4e24fa.png",
-    "static/media/cover3.jpg": "/ipod/static/media/cover3.31c939fc5dbad47ef288.jpg",
-    "static/media/cover1.jpg": "/ipod/static/media/cover1.2f7dc8e587b8f4af3a07.jpg",
-    "static/media/cover2.jpg": "/ipod/static/media/cover2.8174cceb5dfd58fd1a00.jpg",
-    "index.html": "/ipod/index.html",
-    "main.253700b8.css.map": "/ipod/static/css/main.253700b8.css.map",
-    "main.f86b4306.js.map": "/ipod/static/js/main.f86b4306.js.map"
+    "main.css": "/ipod-app/static/css/main.253700b8.css",
+    "main.js": "/ipod-app/static/js/main.e5426973.js",
+    "static/media/Senorita.mp3": "/ipod-app/static/media/Senorita.4765c0c89abed635f1e2.mp3",
+    "static/media/cover4.png": "/ipod-app/static/media/cover4.da94d241c95fde4e24fa.png",
+    "static/media/cover3.jpg": "/ipod-app/static/media/cover3.31c939fc5dbad47ef288.jpg",
+    "static/media/cover1.jpg": "/ipod-app/static/media/cover1.2f7dc8e587b8f4af3a07.jpg",
+    "static/media/cover2.jpg": "/ipod-app/static/media/cover2.8174cceb5dfd58fd1a00.jpg",
+    "index.html": "/ipod-app/index.html",
+    "main.253700b8.css.map": "/ipod-app/static/css/main.253700b8.css.map",
+    "main.e5426973.js.map": "/ipod-app/static/js/main.e5426973.js.map"
   },
   "entrypoints": [
     "static/css/main.253700b8.css",
-    "static/js/main.f86b4306.js"
+    "static/js/main.e5426973.js"
   ]
 }
